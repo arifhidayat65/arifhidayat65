@@ -1,40 +1,102 @@
-<div align="center">
+# Hi, I'm Arif Hidayat 👋
 
-# 👋 Hi, I'm Arif Hidayat
+Technical Lead · Backend & Core Banking Engineer
 
-### Technical Lead · Backend & Core Banking Engineer
+Building enterprise systems, APIs, financial technology solutions,
+and cross-platform applications.
 
-Building scalable enterprise systems, APIs, financial technology
-solutions and cross-platform applications.
-
-<br>
-
-<a href="https://portofolio-arifhidayat.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge">
-</a>
-
-<a href="https://github.com/arifhidayat65">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
-</a>
-
-</div>
+📍 Indonesia
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a software engineer focused on building reliable and scalable
-enterprise applications.
+- ⚙️ Technical Lead focused on enterprise software engineering
+- 💻 Backend development with Java, Spring Boot and Laravel
+- 🏦 Experience with banking, financial technology and enterprise systems
+- 📱 Cross-platform application development with Flutter
+- 🔌 REST APIs, system integration and service architecture
+- 🗄️ Oracle, PostgreSQL, MySQL and Redis
+- 🐳 Linux, Docker and application infrastructure
+- 🌱 Interested in scalable architecture, system integration and DevOps
 
-My experience covers backend engineering, API development,
-system integration, mobile applications and financial technology.
+---
 
-### What I Work With
+## 🚀 Featured Projects
 
-```text
-Backend        → Java · Spring Boot · Laravel
-Mobile         → Flutter · Dart
-Database       → Oracle · PostgreSQL · MySQL
-Infrastructure → Linux · Docker · Redis
-Architecture   → REST API · Enterprise Systems
-Domain         → Banking · Financial Services · Public Utilities
+| Project | Description | Stack |
+|---|---|---|
+| **DMS Service API** | Enterprise document management API | Java · Spring Boot · Oracle · Redis |
+| **Security Service** | Authentication and API security service | Java · Spring Boot · JWT |
+| **Management Leak** | Enterprise management API | Java · Spring Boot · Oracle |
+| **Inquiry Service** | Enterprise inquiry and integration service | Java · Spring Boot · Oracle |
+| **Mobil Tangki** | Logistics and delivery platform | Flutter · Laravel |
+| **Flutter POS** | Point of Sale application | Flutter · PostgreSQL |
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`Java` `PHP` `Dart` `JavaScript` `SQL`
+
+### Backend
+
+`Spring Boot` `Laravel` `REST API` `Microservices`
+
+### Mobile
+
+`Flutter` `Android`
+
+### Databases
+
+`Oracle` `PostgreSQL` `MySQL` `Redis`
+
+### DevOps & Infrastructure
+
+`Linux` `Docker` `Git` `GitHub Actions`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=arifhidayat65&show_icons=true&hide_border=true&count_private=true" />
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifhidayat65&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Enterprise Backend Architecture
+- Spring Boot & Java Engineering
+- Core Banking Systems
+- API & System Integration
+- Flutter Application Development
+- Cloud & DevOps
+- Secure Application Architecture
+
+---
+
+## 💡 Engineering Philosophy
+
+> Build systems that are reliable, maintainable and understandable.
+
+I enjoy solving complex engineering problems and building
+technology that addresses real-world business requirements.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://portofolio-arifhidayat.netlify.app
+- 💻 GitHub: https://github.com/arifhidayat65
+
+---
+
+### Thanks for visiting my profile 👋
