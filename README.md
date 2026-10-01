@@ -1,28 +1,40 @@
-- 👋 Hi, I’m @arifhidayat65
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
 
-<!---
-arifhidayat65/arifhidayat65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Arif Hidayat
 
+### Technical Lead · Backend & Core Banking Engineer
 
-# github-profile-summary-cards-example
+Building scalable enterprise systems, APIs, financial technology
+solutions and cross-platform applications.
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+<br>
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+<a href="https://portofolio-arifhidayat.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge">
+</a>
 
-```To create your profile README you need to name the repo as your username```
+<a href="https://github.com/arifhidayat65">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+</a>
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+</div>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+---
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## 🚀 About Me
+
+I'm a software engineer focused on building reliable and scalable
+enterprise applications.
+
+My experience covers backend engineering, API development,
+system integration, mobile applications and financial technology.
+
+### What I Work With
+
+```text
+Backend        → Java · Spring Boot · Laravel
+Mobile         → Flutter · Dart
+Database       → Oracle · PostgreSQL · MySQL
+Infrastructure → Linux · Docker · Redis
+Architecture   → REST API · Enterprise Systems
+Domain         → Banking · Financial Services · Public Utilities
