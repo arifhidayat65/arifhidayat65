@@ -1,24 +1,24 @@
 # Hi, I'm Arif Hidayat 👋
 
-### Technical Lead · Backend & Core Banking Engineer
+Technical Lead · Backend Systems · Core Banking Engineer
 
 Building scalable enterprise systems, APIs, financial technology
-solutions, and cross-platform applications.
+solutions and cross-platform applications.
 
-📍 Indonesia
+Jakarta, Indonesia
 
 ---
 
 ## 🧑‍💻 About Me
 
 - ⚙️ Technical Lead focused on enterprise software engineering
-- 💻 Backend development and enterprise application architecture
+- 💻 Backend engineering, REST APIs and system integration
 - 🏦 Banking, financial technology and enterprise systems
 - 📱 Cross-platform application development
-- 🔌 REST API and system integration
-- 🗄️ Relational and NoSQL database technologies
-- 🐳 Linux, Docker and application infrastructure
-- 🌱 Continuously learning modern software architecture and DevOps
+- 🗄️ Enterprise database engineering
+- 🔐 Application security and secure API architecture
+- ☁️ DevOps, Linux and containerized infrastructure
+- 🌱 Interested in scalable architecture and distributed systems
 
 ---
 
@@ -26,35 +26,51 @@ solutions, and cross-platform applications.
 
 ### Languages
 
-`Java` `PHP` `Dart` `JavaScript` `SQL`
+Java · PHP · Dart · JavaScript · SQL
 
-### Backend
+### Frameworks
 
-`Spring Boot` `Laravel` `REST API` `Microservices`
+Spring Boot · Laravel · Flutter
 
-### Mobile & Frontend
+### Databases & Messaging
 
-`Flutter` `Android` `JavaScript`
+Oracle · PostgreSQL · MySQL · Redis
 
-### Database
+### DevOps & Cloud
 
-`Oracle` `PostgreSQL` `MySQL` `Redis`
-
-### DevOps & Infrastructure
-
-`Linux` `Docker` `Git` `GitHub Actions`
+Linux · Docker · Git · GitHub Actions
 
 ---
 
-## 🎯 Areas of Expertise
+## 📊 Stats
 
-```text
-Enterprise Software Engineering
-Backend & API Development
-System Integration
-Core Banking Systems
-Financial Technology
-Mobile Application Development
-Database Engineering
-Application Security
-DevOps & Infrastructure
+[GitHub Statistics]
+
+[Most Used Languages]
+
+---
+
+## 🎯 Current Focus
+
+- Enterprise Backend Architecture
+- Spring Boot & Java Engineering
+- Core Banking Technology
+- API & System Integration
+- Flutter Application Development
+- Cloud & DevOps
+- Secure Application Architecture
+
+---
+
+## 💡 Engineering Philosophy
+
+> Build systems that are reliable, maintainable and understandable.
+
+I enjoy solving complex engineering problems and building
+technology that addresses real-world business requirements.
+
+---
+
+## 📫 Reach Me
+
+Portfolio · LinkedIn · GitHub
